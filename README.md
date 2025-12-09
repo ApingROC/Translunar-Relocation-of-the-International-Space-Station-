@@ -50,32 +50,27 @@ Replacement or reinforcement of aging power systems
 Docking interfaces compatible with multiple tugs
 
 3.2 High-Thrust Chemical Tug Concept
-The ISS will be relocated using three docked chemical tugs on the Russian segment, providing three thrust vectors for:
-Maximum maneuverability
-Distributed load along the truss
-Redundancy in case of individual tug failure
-Integrated attitude control via differential thrust
 
-Docking Ports Used:
-Zvezda aft
-Zvezda nadir
-Zarya aft or nadir
+The ISS will be relocated using three docked chemical tugs attached to the Russian segment, providing three thrust vectors for:
+	•	Maximum maneuverability
+	•	Distributed load along the truss
+	•	Redundancy in the event of a tug failure
+	•	Integrated attitude control through differential thrust
+
+Proposed docking ports:
+	•	Zvezda aft
+	•	Zvezda nadir
+	•	Zarya aft or nadir
 
 Advantages:
-Proven, reliable, 100% docked chemical propulsion
-High thrust allows relatively short mission durations
-Fully controllable with redundant vectors
-Maintains structural safety by minimizing truss bending and torque
+	•	Proven, reliable, fully docked chemical propulsion
+	•	High thrust enables relatively short mission durations
+	•	Full controllability with redundant thrust vectors
+	•	Maintains structural safety by minimizing truss bending and torque loads
 
-3.3 Transfer Profile
-Pre-burn system check and structural verification
-Dock the three chemical tugs to Russian ports
-Gradual orbit raising in LEO to reduce atmospheric drag and optimize burn trajectory
-Translunar injection burns using the three tugs in synchronized thrust vectors
-Coast phase to lunar vicinity
-Lunar orbit insertion and station-keeping in Near Rectilinear Halo Orbit (NRHO)
+Beyond the three suggested ports, the propulsion architecture can make use of additional docking interfaces, allowing the tugs to be reconfigured between thrust-aligned positions for major translational burns and off-axis positions for rotational control. This flexibility enables both large-scale ∆v maneuvers and precise attitude tuning while minimizing structural stress.
 
-Total mission time: Several weeks to a few months, depending on burn duration and tug capabilities.
+All tugs remain fully serviceable and may return to Earth—or to an intermediate servicing orbit—for refueling, refurbishment, or replacement.
 
 
 4. Engineering Feasibility Challenges
