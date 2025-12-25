@@ -14,7 +14,7 @@ This white paper outlines the conceptual feasibility, mission architecture, engi
 
 1. Introduction: A Bold Extension of the ISS Legacy
 The ISS is approaching the end of its planned operational life in LEO. Current deorbit plans envision controlled destruction in the 2030s. But the ISS still has functional modules, advanced life support systems, operational robotics, and a vast internal volume unmatched by any future station.
-Instead of decommissioning the ISS, this proposal considers extending its life by relocating it to lunar orbit—transforming it into a cis-lunar laboratory, logistics hub, and assembly node for lunar surface infrastructure.
+Instead of decommissioning the ISS, this proposal considers extending its life by relocating it to lunar orbit—transforming it into a cis-lunar laboratory, logistics hub, and assembly node for lunar surface infrastructure. 
 
 2. Strategic Rationale for Relocation
 
@@ -168,3 +168,13 @@ but because its ambition matches the scale of our future in space
 
 Musk sent a roadster to orbit. We could send the entire ISS to the Moon. Three docked chemical tugs, three thrust vectors, fully controlled. No waste, all science, maximum audacity. 
 
+
+UPDATE
+
+https://www.universetoday.com/articles/russias-plans-for-a-space-station-includes-recycling-its-iss-modules
+
+Recent developments in Russian space policy necessitate revisions to the proposed ISS reconfiguration strategy.
+Impact of Russian Retention Plans
+Roscosmos has announced intentions to retain and repurpose the Russian Orbital Segment (ROS) modules—such as Zvezda, Zarya, and associated elements—as the foundational core for their forthcoming Russian Orbital Service Station (ROSS) following ISS retirement in 2030. This decision precludes direct reuse of the ISS in its current configuration for alternative missions, including lunar orbital operations, due to unresolved propulsion dependencies and geopolitical constraints.
+Engineering Symmetry Opportunity
+The technical efforts required to isolate non-Russian modules (U.S., European, and Japanese segments), provide independent propulsion for controlled atmospheric reentry, and manage structural reconfiguration are equivalent to those needed for reattaching these modules to a newly developed core replacement. This parity enables a viable pathway: develop a U.S.-led propulsion and command module (e.g., leveraging Starlab or HALO-derived architectures with IDA-compatible interfaces) to preserve high-value assets like Destiny, Harmony, Columbus, and Kibo, bypassing ROS entirely while adhering to existing timelines and budgets.
