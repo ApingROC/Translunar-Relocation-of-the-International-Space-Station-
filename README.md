@@ -175,6 +175,13 @@ https://www.universetoday.com/articles/russias-plans-for-a-space-station-include
 
 Recent developments in Russian space policy necessitate revisions to the proposed ISS reconfiguration strategy.
 Impact of Russian Retention Plans
-Roscosmos has announced intentions to retain and repurpose the Russian Orbital Segment (ROS) modules—such as Zvezda, Zarya, and associated elements—as the foundational core for their forthcoming Russian Orbital Service Station (ROSS) following ISS retirement in 2030. This decision precludes direct reuse of the ISS in its current configuration for alternative missions, including lunar orbital operations, due to unresolved propulsion dependencies and geopolitical constraints.
+ 
+Roscosmos has announced intentions to retain and repurpose the Russian Orbital Segment (ROS) modules—such as Zvezda, Zarya, and associated elements—as the foundational core for their forthcoming Russian Orbital Service Station (ROSS) following ISS retirement in 2030. 
+
+This decision precludes direct reuse of the ISS in its current configuration for alternative missions, including lunar orbital operations, due to unresolved propulsion dependencies and geopolitical constraints.
+
 Engineering Symmetry Opportunity
-The technical efforts required to isolate non-Russian modules (U.S., European, and Japanese segments), provide independent propulsion for controlled atmospheric reentry, and manage structural reconfiguration are equivalent to those needed for reattaching these modules to a newly developed core replacement. This parity enables a viable pathway: develop a U.S.-led propulsion and command module (e.g., leveraging Starlab or HALO-derived architectures with IDA-compatible interfaces) to preserve high-value assets like Destiny, Harmony, Columbus, and Kibo, bypassing ROS entirely while adhering to existing timelines and budgets.
+
+The technical efforts required to isolate non-Russian modules (U.S., European, and Japanese segments), provide independent propulsion for controlled atmospheric reentry, and manage structural reconfiguration are equivalent to those needed for reattaching these modules to a newly developed core replacement.
+
+This parity enables a viable pathway: develop a U.S.-led propulsion and command module (e.g., leveraging Starlab or HALO-derived architectures with IDA-compatible interfaces) to preserve high-value assets like Destiny, Harmony, Columbus, and Kibo, bypassing ROS entirely while adhering to existing timelines and budgets.
